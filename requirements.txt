@@ -1,0 +1,2 @@
+python-dotenv>=1.0.0
+semantic-kernel[azure]>=1.0.0b1
