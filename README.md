@@ -34,6 +34,23 @@ This project demonstrates how to build plugin-based AI capabilities using the [M
 | `output_2.png` | Screenshot of booking response |
 
 ---
+## 📤 Example Output
+
+Below are screenshots showing a full interaction with the Semantic Kernel assistant using the custom `flight_booking_plugin`.
+
+### 🧭 1. Flight Search Request
+
+The assistant responds to a user prompt to find a flight to Tokyo on the 19th:
+
+![Flight search interaction](output_1.png)
+
+---
+
+### 🛫 2. Booking the Selected Flight
+
+After the user confirms booking, the assistant responds with a flight confirmation:
+
+![Booking response](output_2.png)
 
 ## 🛠️ Setup & Run
 
